@@ -5,7 +5,7 @@ Hello, I'm a postdoctoral researcher and lecturer (akad. Rat auf Zeit) at the [I
 
 I have attained a PhD in social sciences (Dr. rer. soc.) at the [University of Mannheim](https://www.uni-mannheim.de/en/), Germany. It was also there, that I completed my M.A. (magister artium) studies in sociology, modern history, and economic history.
 
-Originally, I hail from [Southern Thuringia](https://en.wikipedia.org/wiki/South_Thuringia), a region known for its winter sports athletes, sausages, and unexpected [Franconian dialect](http://www.personal.uni-jena.de/~x8wisu/dialektforschung/dialektgebiete/hennebergisch/sprachprobehennebergisch.html). This birthplace has naturally endowed me with an inexhaustible enthusiam for all things mountain and forest but also renders any attempts at vegetarianism hopelessly futile. In the interest of full disclosure, I like [books](https://www.goodreads.com/droverbytrade), [films](https://rateyourmusic.com/film_collection/emmkaa/r0.5-5.0), and [music](https://rateyourmusic.com/collection/emmkaa/oo).
+Originally, I hail from [Southern Thuringia](https://en.wikipedia.org/wiki/South_Thuringia), a region known for its winter sports athletes, sausages, and unexpected [Franconian dialect](http://www.personal.uni-jena.de/~x8wisu/dialektforschung/dialektgebiete/hennebergisch/sprachprobehennebergisch.html). This birthplace has naturally endowed me with an inexhaustible enthusiam for all things mountain and forest. In the interest of full disclosure, I also like [books](https://www.goodreads.com/droverbytrade), [films](https://rateyourmusic.com/film_collection/emmkaa/r0.5-5.0), and [music](https://rateyourmusic.com/collection/emmkaa/oo).
 
 
 
