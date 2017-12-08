@@ -15,7 +15,7 @@ These are some of the courses I'm offering at the University of Cologne with lin
 * [Discrimination in the labor market](https://www.dropbox.com/s/20yuvx0emg2pkc1/syllabus.pdf?dl=0)
 * [Family context and child development](https://www.dropbox.com/s/4heh9cgbxsawcgt/syllabus_v2.pdf?dl=0)
 
-In Cologne, I've also taught a research lab on higher education and the labor market, a seminar on gender inequality in the family and the labor market, and a complimentary exercise for the introductory statistics lecture in the B.A. program.
+In Cologne, I've also taught a research lab on higher education and the labor market, a seminar on gender inequality in the family and the labor market, and a complementary exercise for the introductory statistics lecture in the B.A. program.
 
 * * *
 
