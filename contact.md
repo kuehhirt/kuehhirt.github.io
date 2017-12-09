@@ -14,7 +14,7 @@ michael.kuehhirt[at]uni-koeln[dot]de
 
 #### [Google Scholar](https://scholar.google.com/citations?user=EiQS3RUAAAAJ&hl=de)
 
-#### [Open Science Framework](osf.io/x7j2r)
+#### [Open Science Framework](https://osf.io/x7j2r)
 
 #### [ORCID](https://orcid.org/0000-0001-9503-0488)
 
