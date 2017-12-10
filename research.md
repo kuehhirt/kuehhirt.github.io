@@ -1,7 +1,7 @@
 
 ## Research
 
-My research focuses on how family processes and relationships shape individual life courses and contribute to social stratification and inequality. Within this subject area, I'm particularly interested in two topics:
+My research typically focuses on how family processes and relationships shape individual life courses and contribute to social stratification and inequality. Within this subject area, I'm particularly interested in two questions:
 1. *How do family events, like childbirth or divorce, impact the work life and wellbeing of men and women?* 
 2. *How do (dynamic) aspects of the family context, like parental education and employment, neighborhood deprivation, or parenting style, affect children's development?*
 
@@ -17,9 +17,9 @@ Michael Kühhirt and Markus Klein (2017). [Early Maternal Employment and Childre
 
 Marita Jacob, Corinna Kleinert and Michael Kühhirt (2013). [Trends in Gender Disparities at the Transition from School to Work: Labour Market Entries of Young Men and Women between 1984 and 2005 in West Germany.](http://www.tandfonline.com/doi/abs/10.1080/13636820.2012.738427#.VZ59QbdH_sY) *Journal of Vocational Education and Training* 65 (1): 48---65. [[Preprint](http://www.mzes.uni-mannheim.de/publications/wp/wp-127.pdf)]
 
-Michael Kühhirt (2012). [Childbirth and the Long-Term Division of Labour within Couples: How do Substitution, Bargaining Power, and Norms affect Parents' Time Allocation in West Germany]?(http://esr.oxfordjournals.org/content/28/5/565) *European Sociological Review* 28 (5): 565---582.
+Michael Kühhirt (2012). [Childbirth and the Long-Term Division of Labour within Couples: How do Substitution, Bargaining Power, and Norms affect Parents' Time Allocation in West Germany?](http://esr.oxfordjournals.org/content/28/5/565) *European Sociological Review* 28 (5): 565---582.
 
-Michael Kühhirt and Volker Ludwig (2012). [Work and the Wage Penalty for Motherhood in West Germany.](http://onlinelibrary.wiley.com/doi/10.1111/j.1741-3737.2011.00886.x/abstract)] *Journal of Marriage and Family* 74 (1): 186---200.
+Michael Kühhirt and Volker Ludwig (2012). [Work and the Wage Penalty for Motherhood in West Germany.](http://onlinelibrary.wiley.com/doi/10.1111/j.1741-3737.2011.00886.x/abstract) *Journal of Marriage and Family* 74 (1): 186---200.
 [[Article]
 
-Markus Klein and Michael Kühhirt (2010). [Social Desirability and Response Bias in Case of the Division of Household Labour: The Interaction between Gender of the Interviewer and Respondent Characteristics in Telephone Interviews.](http://www.ssoar.info/ssoar/handle/document/21012)] *Methods --- Data --- Analyses* 4 (2): 79---104.
+Markus Klein and Michael Kühhirt (2010). [Social Desirability and Response Bias in Case of the Division of Household Labour: The Interaction between Gender of the Interviewer and Respondent Characteristics in Telephone Interviews.](http://www.ssoar.info/ssoar/handle/document/21012) *Methods --- Data --- Analyses* 4 (2): 79---104.
