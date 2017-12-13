@@ -7,6 +7,6 @@ Marita Jacob, Corinna Kleinert and Michael Kühhirt (2013). [Trends in Gender Di
 
 Michael Kühhirt (2012). [Childbirth and the Long-Term Division of Labour within Couples: How do Substitution, Bargaining Power, and Norms affect Parents' Time Allocation in West Germany?](http://esr.oxfordjournals.org/content/28/5/565) *European Sociological Review* 28 (5): 565---582.
 
-Michael Kühhirt and Volker Ludwig (2012). [Work and the Wage Penalty for Motherhood in West Germany.](http://onlinelibrary.wiley.com/doi/10.1111/j.1741-3737.2011.00886.x/abstract) *Journal of Marriage and Family* 74 (1): 186---200.
+Michael Kühhirt and Volker Ludwig (2012). [Domestic Work and the Wage Penalty for Motherhood in West Germany.](http://onlinelibrary.wiley.com/doi/10.1111/j.1741-3737.2011.00886.x/abstract) *Journal of Marriage and Family* 74 (1): 186---200.
 
 Markus Klein and Michael Kühhirt (2010). [Social Desirability and Response Bias in Case of the Division of Household Labour: The Interaction between Gender of the Interviewer and Respondent Characteristics in Telephone Interviews.](http://www.ssoar.info/ssoar/handle/document/21012) *Methods --- Data --- Analyses* 4 (2): 79---104.
