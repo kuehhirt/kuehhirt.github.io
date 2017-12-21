@@ -16,7 +16,7 @@ At the moment, I'm mainly working on two topics that are immediately connected t
 1. Parenthood, divorce, and the health and wellbeing of men and women
 2. Family context and child development
 
-In addition, I'm involved in a number of collaborations that fall within the larger area of social stratification and life course research, namely
+In addition, I'm involved in a number of projects that fall within the larger area of social stratification and life course research, namely
 * the labor market returns to studying abroad (with Marita Jacob and Margarida Rodrigues),
 * trends in employment-related gender attitudes (with Christian Ebner and Philipp Lersch),
 * and Matthew effects in the National Basketball Association (NBA) (with Thomas Biegert and Wim van Lancker).
