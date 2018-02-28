@@ -1,7 +1,7 @@
 
 ## Publications
 
-Thomas Biegert and Michael Kühhirt (2018). [Taking Lemons for a Trial Run: Does Type of Job Exit Affect the Risk of Entering Fixed-Term Employment in Germany?](https://doi.org/10.1093/esr/jcy003) Forthcoming in *European Sociological Review*. [[Replication files](https://osf.io/nh5u4)] [Preprint](https://osf.io/preprints/socarxiv/zuwat/)
+Thomas Biegert and Michael Kühhirt (2018). [Taking Lemons for a Trial Run: Does Type of Job Exit Affect the Risk of Entering Fixed-Term Employment in Germany?](https://doi.org/10.1093/esr/jcy003) Forthcoming in *European Sociological Review*. [[Preprint](https://osf.io/preprints/socarxiv/zuwat/)] [[Replication files](https://osf.io/nh5u4)]
 
 Michael Kühhirt and Markus Klein (2017). [Early Maternal Employment and Children’s Vocabulary and Inductive Reasoning Ability: A Dynamic Approach.](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12796/abstract) Forthcoming in *Child Development*. [[Preprint](https://osf.io/preprints/socarxiv/brscf)] [[Replication files](https://osf.io/m8trg)] [[Blog](https://theconversation.com/being-a-working-mother-is-not-bad-for-your-children-78439)]
 

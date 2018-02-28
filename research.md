@@ -11,7 +11,7 @@ To answer these questions, I apply quantitative methods to large scale, often lo
 
 #### Current projects
 
-At the moment, I'm mainly working on two overarchig topics that are immediately connected to my core research interests outlined above. 
+At the moment, I'm mainly working on two overarching topics that are immediately connected to my core research interests outlined above. 
 
 1. Parenthood, divorce, and the health and wellbeing of men and women
 * motherhood and physical activity (with Nadine Reibling)
