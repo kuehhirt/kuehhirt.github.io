@@ -16,4 +16,5 @@ DOI: [10.1093/esr/jcr026](https://doi.org/10.1093/esr/jcr026)
 Michael Kühhirt and Volker Ludwig (2012). Domestic Work and the Wage Penalty for Motherhood in West Germany.  
 DOI:  [10.1111/j.1741-3737.2011.00886.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1741-3737.2011.00886.x/abstract)
 
-Markus Klein and Michael Kühhirt (2010). Social Desirability and Response Bias in Case of the Division of Household Labour: The Interaction between Gender of the Interviewer and Respondent Characteristics in Telephone Interviews. PID: [urn:nbn:de:0168-ssoar-210124](http://nbn-resolving.de/urn:nbn:de:0168-ssoar-210124)
+Markus Klein and Michael Kühhirt (2010). Social Desirability and Response Bias in Case of the Division of Household Labour: The Interaction between Gender of the Interviewer and Respondent Characteristics in Telephone Interviews.  
+PID: [urn:nbn:de:0168-ssoar-210124](http://nbn-resolving.de/urn:nbn:de:0168-ssoar-210124)
