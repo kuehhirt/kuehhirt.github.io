@@ -1,7 +1,7 @@
 
 ## About
 
-Hello, I'm a postdoctoral researcher and lecturer (akad. Rat auf Zeit) at the [Institute of Sociology and Social Psychology](http://www.iss-wiso.uni-koeln.de/en/) at the [University of Cologne](https://www.portal.uni-koeln.de/index.php?id=9441\&L=1), Germany. These pages provide information on my research and teaching, available also as a <span class="badge badge-small badge-yellow">[CV](https://www.dropbox.com/s/cklf1o689gx7jvx/cv_kuehhirt_fira.pdf?dl=0)</span>.
+Hello, I'm a postdoctoral researcher and lecturer (akad. Rat auf Zeit) at the [Institute of Sociology and Social Psychology](http://www.iss-wiso.uni-koeln.de/en/) at the [University of Cologne](https://www.portal.uni-koeln.de/index.php?id=9441\&L=1), Germany. These pages provide information on my research and teaching, available also as a [<span class="badge badge-small badge-yellow">cv</span>](https://www.dropbox.com/s/cklf1o689gx7jvx/cv_kuehhirt_fira.pdf?dl=0).
 
 I have attained both an M.A. (sociology, modern history, and economic history) and a PhD in social sciences (Dr. rer. soc.) at the [University of Mannheim](https://www.uni-mannheim.de/en/), Germany. My dissertation research focused on the consequences of having children for paid and unpaid work of men and women in (West) Germany. 
 
