@@ -21,7 +21,7 @@ At the moment, I'm mainly working on two overarching topics that are immediately
 2. Family context and child development
 * [trends in inequality of educational opportunity in East and West Germany](https://osf.io/preprints/socarxiv/3e9ud/) (with Markus Klein and Katherin Barg)
 * [cumulative exposure to neighborhood deprivation and children's behavior problems](https://osf.io/bj3fu)
-* [tv consumption and child development](https://www.researchgate.net/profile/Markus_Klein7/project/Child-development-in-a-dynamic-family-context/attachment/59e74d494cde2617ef84f630/AS:550793556262912@1508330825704/download/slls_gus.pdf?context=ProjectUpdatesLog) (with Markus Klein)
+* [tv consumption and child development](http://www.lifecoursecentre.org.au/wp-content/uploads/2018/04/2018-06-LCC-Working-Paper-Kuhhirt-Klein.pdf) (with Markus Klein)
 
 In addition, I'm involved in a number of projects that fall within the larger area of social stratification and life course research, namely
 * the labor market returns to studying abroad (with Marita Jacob and Margarida Rodrigues),
