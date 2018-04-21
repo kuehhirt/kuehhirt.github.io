@@ -18,4 +18,4 @@ michael.kuehhirt[at]uni-koeln[dot]de
 <a href="https://osf.io/x7j2r"><i class="ai ai-osf-square ai-3x"></i></a>
 <a href="https://www.researchgate.net/profile/Michael_Kuehhirt"><i class="ai ai-researchgate-square ai-3x"></i></a>
 <a href="http://www.researcherid.com/rid/J-3467-2015"><i class="ai ai-researcherid-square ai-3x"></i></a>
-<a href="https://twitter.com/droverbytrade"><i class='fa fa-twitter-square'></i></a>
+<a href="https://twitter.com/droverbytrade"><i class='fa fa-twitter-square fa-3x'></i></a>
