@@ -12,7 +12,9 @@ michael.kuehhirt[at]uni-koeln[dot]de
 
 * * *
 
-#### [Google Scholar](https://scholar.google.com/citations?user=EiQS3RUAAAAJ&hl=de)
+<a href="https://scholar.google.com/citations?user=EiQS3RUAAAAJ&hl=de"><i class="ai ai-google-scholar-square ai-3x"></i></a>
+
+#### [Google Scholar]()
 
 #### [Open Science Framework](https://osf.io/x7j2r)
 
@@ -21,5 +23,3 @@ michael.kuehhirt[at]uni-koeln[dot]de
 #### [Researcher ID](http://www.researcherid.com/rid/J-3467-2015)
 
 #### [ResearchGate](https://www.researchgate.net/profile/Michael_Kuehhirt)
-
-
