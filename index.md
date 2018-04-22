@@ -9,7 +9,7 @@ Originally, I hail from [Southern Thuringia](https://en.wikipedia.org/wiki/South
 
 * * *
 
-## Contact
+### Contact
 
 Michael Kühhirt  
 University of Cologne  
