@@ -19,4 +19,6 @@ In Cologne, I've also taught a research lab on higher education and the labor ma
 
 * * *
 
-Over the last few years, I have offered  workshops on the topics of causal inference and causal mediation analysis at GESIS - Leibniz Institute for Social Sciences, the University of Edinburgh (AQMeN), the German Youth Institute (DJI), the University of Queensland, and the Centre d'Estudis Demogràfics in Barcelona.
+Over the last few years, I have offered workshops on the topics of causal inference and causal mediation analysis at GESIS - Leibniz Institute for Social Sciences, the University of Edinburgh (AQMeN), the German Youth Institute (DJI), the University of Queensland, and the Centre d'Estudis Demogràfics in Barcelona.
+
+Materials from a 2-day workshop on causal mediation analysis at [BIGSSS](https://www.bigsss-bremen.de/) can be found [here](https://kuehhirt.github.io/web-mediation/).
