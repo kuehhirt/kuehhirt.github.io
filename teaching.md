@@ -19,6 +19,11 @@ In Cologne, I've also taught a research lab on higher education and the labor ma
 
 * * *
 
-Over the last few years, I have offered workshops on the topics of causal inference and causal mediation analysis at GESIS - Leibniz Institute for Social Sciences, the University of Edinburgh (AQMeN), the German Youth Institute (DJI), the University of Queensland, and the Centre d'Estudis Demogràfics in Barcelona.
+Over the last few years, I have also offered workshops on the topics of causal inference and causal mediation analysis in different places:
 
-Materials from a 2-day workshop on causal mediation analysis at [BIGSSS](https://www.bigsss-bremen.de/) can be found [here](https://kuehhirt.github.io/web-mediation/).
+* [Causal mediation analysis at BIGSSS](https://kuehhirt.github.io/web-mediation), May 2018
+* [Kausale Mediationsanalyse at Gesis](https://www.dropbox.com/s/6u7khp1cjy8x2pl/syl_med_gesis_17.pdf?dl=0), October 2017
+* [Introduction to causal inference at CED](https://www.dropbox.com/s/ashfecn0lgiq9m1/syl_ci_ced_17.pdf?dl=0), September 2017
+* [Introduction to causal inference at LCC](https://www.dropbox.com/s/9nk58jwa60m3mvr/syl_ci_lcc_17.pdf?dl=0), April 2017
+* Kausalität und Evaluation at DJI, October 2015, October 2016
+* [Recent advances in causal inference at University of Edinburgh (AQMeN)](https://www.dropbox.com/s/klj5pkpxphe5bc2/syllabus.pdf?dl=0), September 2014
