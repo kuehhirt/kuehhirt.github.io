@@ -4,6 +4,8 @@ My favorite approach to teaching is to use a substantive topic to illustrate bro
 
 In terms of teaching practices, I'm eager to combine lectures, assignments, and labs with tools like online quizzes or Q&A platforms (with varying success). Generally, I find that what works in the classroom very much depends on the particular group of students so I don't believe in any golden formula and try to remain flexible and adaptive in my approach (while keeping a lookout for rigorous empirical research on teaching practices).
 
+* * *
+
 Below are some of the courses I'm offering at the University of Cologne with links to course websites or syllabi.
 
 ### Courses in the [M.Sc. program](https://www.wiso.uni-koeln.de/en/studies/master/master-sociology-and-social-research/)
