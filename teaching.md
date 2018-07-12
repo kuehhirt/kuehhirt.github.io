@@ -1,7 +1,10 @@
 
 ## Teaching
+My favorite approach to teaching is to use a substantive topic to illustrate broader concepts in empirical social research that students can later transfer to other theoretical and practical areas. While the facts and figures within a specific topic are important, I consider these a means to an end to understand more fundamental aspects regarding theory and methodology. When teaching methodology in particular, I insist on first understanding a specific problem (e.g., the curse of dimensionality) before introducing its technical fixes (e.g., more or less elaborate statistical models) thus emphasizing the motivation for and the limitations of methods.
 
-These are some of the courses I'm offering at the University of Cologne with links to course websites or syllabi.
+In terms of teaching practices, I'm eager to combine lectures, assignments, and labs with tools like online quizzes or Q&A platforms (with varying success). Generally, I find that what works in the classroom very much depends on the particular group of students so I don't believe in any golden formula and try to remain flexible and adaptive in my approach (while keeping a lookout for rigorous empirical research on teaching practices).
+
+Below are some of the courses I'm offering at the University of Cologne with links to course websites or syllabi.
 
 ### Courses in the [M.Sc. program](https://www.wiso.uni-koeln.de/en/studies/master/master-sociology-and-social-research/)
 
