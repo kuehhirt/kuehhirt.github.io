@@ -10,6 +10,7 @@ Below are some of the courses I'm offering at the University of Cologne with lin
 
 ### Courses in the [M.Sc. program](https://www.wiso.uni-koeln.de/en/studies/master/master-sociology-and-social-research/)
 
+* [Design and analysis of quasi-experiments](https://www.dropbox.com/s/q089ht2sqlr1jxg/syllabus.pdf?dl=0) (lecture with exercise)
 * [Introduction to causal inference](/web-causal-inference/) (lecture with exercise)
 * [Reproducible research on child and youth development](/web-research-lab/) (research lab)
 * [Social contagion](https://www.dropbox.com/s/kzno4gcm62a24lp/syl_sc_ss16.pdf?dl=0) (seminar course)
