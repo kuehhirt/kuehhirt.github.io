@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-remote_theme:     qwtel/hydejack
+remote_theme:     fongandrew/hydeout
 
 # Setup
 title:            Michael Kühhirt
