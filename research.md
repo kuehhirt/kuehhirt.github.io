@@ -1,5 +1,7 @@
-
-## Research
+---
+layout: category
+title: Research
+---
 
 My research is located at the intersection of sociology, demography, and developmental psychology. It typically focuses on how family processes and relationships shape individual life courses and contribute to social stratification and inequality. Within this subject area, I'm particularly interested in two questions:
 1. *How and why do family events, like childbirth or divorce, impact the work life and wellbeing of men and women?* 

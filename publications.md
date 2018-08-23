@@ -1,5 +1,7 @@
-
-## Publications
+---
+layout: category
+title: Publications
+---
 
 Thomas Biegert and Michael Kühhirt (2018). Taking Lemons for a Trial Run: Does Type of Job Exit Affect the Risk of Entering Fixed-Term Employment in Germany?  
 DOI: [10.1093/esr/jcy003](https://doi.org/10.1093/esr/jcy003) [[Preprint](https://osf.io/preprints/socarxiv/zuwat/)] [[Replication files](https://osf.io/nh5u4)]
