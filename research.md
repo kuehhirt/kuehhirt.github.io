@@ -8,7 +8,7 @@ My research is located at the intersection of sociology, demography, and develop
 1. *How and why do family events, like childbirth or divorce, impact the work life and wellbeing of men and women?* 
 2. *How and why do (dynamic) aspects of the family context, like parental education and employment, neighborhood deprivation, or parenting style, affect children's development?*
 
-To answer these questions, I apply quantitative methods to large scale, often longitudinal, survey data. Because my research mostly addresses causal relations, I have a deep and abiding interest in modern methods of causal inference (which I also delight in [teaching](/web-causal-inference)). 
+To answer these questions, I apply quantitative methods to large-scale, often longitudinal, survey data. Because my research mostly addresses causal relations, I have a deep and abiding interest in modern methods of causal inference (which I also delight in [teaching](/web-causal-inference)). 
 
 In recent years, I've become a fervent believer in [open science](https://en.wikipedia.org/wiki/Open_science). Therefore, I now strive to provide documentation that allows others to reproduce my research with minimal effort (e.g., [here](https://osf.io/m8trg)).
 
