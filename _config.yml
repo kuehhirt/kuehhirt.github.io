@@ -6,4 +6,4 @@ remote_theme:     fongandrew/hydeout
 # Setup
 title:            Michael Kühhirt
 tagline:          Personal website
-baseurl:          '/About'
+baseurl:          '/about'
