@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-sidebar_home_link:  true
+sidebar_link: true
 ---
 
 
@@ -24,5 +24,3 @@ Germany
 
 Email: michael.kuehhirt[at]uni-koeln[dot]de  
 Phone: +49 (0) 221 470 3363  
-
-<a href="https://github.com/kuehhirt"><i class='fa fa-github-square fa-2x'></i></a> <a href="https://scholar.google.com/citations?user=EiQS3RUAAAAJ&hl=de"><i class="ai ai-google-scholar-square ai-2x"></i></a> <a href="https://orcid.org/0000-0001-9503-0488"><i class="ai ai-orcid-square ai-2x"></i></a> <a href="https://osf.io/x7j2r"><i class="ai ai-osf-square ai-2x"></i></a> <a href="https://www.researchgate.net/profile/Michael_Kuehhirt"><i class="ai ai-researchgate-square ai-2x"></i></a> <a href="http://www.researcherid.com/rid/J-3467-2015"><i class="ai ai-researcherid-square ai-2x"></i></a> <a href="https://twitter.com/droverbytrade"><i class='fa fa-twitter-square fa-2x'></i></a> 
