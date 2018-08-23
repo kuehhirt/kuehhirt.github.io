@@ -6,3 +6,5 @@ remote_theme:     fongandrew/hydeout
 # Setup
 title:            Michael Kühhirt
 tagline:          Personal website
+url:              https://kuehhirt.github.io
+baseurl:          '/hydeout'
