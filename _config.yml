@@ -7,4 +7,4 @@ remote_theme:     fongandrew/hydeout
 title:            Michael Kühhirt
 tagline:          Personal website
 url:              https://kuehhirt.github.io
-baseurl:          '/hydeout'
+baseurl:          '/about'
