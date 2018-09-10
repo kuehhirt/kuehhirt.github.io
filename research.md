@@ -4,11 +4,11 @@ title: Research
 sidebar_sort_order: 2
 ---
 
-My research deals with the formation of social inequalties over the life course and draws on theories and concepts from sociology, demography, and developmental psychology. Within this research area, I mainly focus on the following three overarching topics which investigate how different life events, family processes and relationsships, and gender shape individual life courses and thereby contribute to social stratification and inequality:
+My research draws on theories and concepts from sociology, demography, and developmental psychology to investigate the formation of social inequalities over the life course. Within this research area, I mainly focus on the following three overarching topics which investigate how different life events, family processes and relationsships, and gender shape individual life courses and thereby contribute to social stratification and inequality:
 
 1. *Family events and the work life and wellbeing of men and women*
 
-2. *[The social stratification of child development](/development)*
+2. *[The social stratification of child development](/development.html)*
 
 3. *Determinants of individual careers*
 
