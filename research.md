@@ -8,7 +8,7 @@ My research draws on theories and concepts from sociology, demography, and devel
 
 1. *Family events and the work life and wellbeing of men and women*
 
-2. *[The social stratification of child development](/development.html)*
+2. *[The social stratification of child development](/develop)*
 
 3. *Determinants of individual careers*
 
