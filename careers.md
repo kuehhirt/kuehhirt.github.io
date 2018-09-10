@@ -11,4 +11,5 @@ In a number of previous and current collaborations, I assess the consequences of
 * Labour Market Returns to Graduates' International Experience: Exploring Cross-Country Variation in Europe (with [Marita Jacob](https://www.iss-wiso.uni-koeln.de/de/institut/personen/j/prof-dr-marita-jacob/) and Margarida Rodrigues), Revise & Resubmit
 * They Can’t All Be Stars: The Matthew Effect and Status Persistence in the NBA (with [Thomas Biegert](https://thomasbiegert.github.io) and [Wim van Lancker](http://www.wimvanlancker.be/)), presented at the ESA RN 09 Economic Sociology Midterm Conference in Konstanz, 13-15 September, 2018
 
-<span class="back-arrow icon">{% include svg/back-arrow.svg %}</span> [Back to Research]({{ baseurl }}/research)
+
+[Back to Research]({{ baseurl }}/research)
