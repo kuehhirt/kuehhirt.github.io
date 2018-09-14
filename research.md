@@ -6,8 +6,8 @@ sidebar_sort_order: 2
 
 My research draws on theories and concepts from sociology, demography, economics, and developmental psychology to study the formation of social inequalities over the life course. Within this research area, I'm particularly interested in two topics:
 
-1) *[Life Events, Gender, and Inequality in Adult Life Courses](/events)*  
-2) *[Social Stratification of Child Development](/develop)*
+1. *[Life Events, Gender, and Inequality in Adult Life Courses](/events)*  
+2. *[Social Stratification of Child Development](/develop)*
 
 To contribute to these topics, I use quantitative methods and large-scale, often longitudinal, survey data. Because my research often addresses causal relations, I have a deep and abiding interest in modern methods of causal inference (which I also delight in [teaching](/web-causal-inference)). 
 
