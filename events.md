@@ -3,7 +3,7 @@ layout: page
 title: Life Events, Gender, and Inequality in Adult Life Courses
 ---
 
-In this line of research, I study the consequences of life events and decisions, often in conjunction with gender, on the formation and development of inequality in adult life courses. A first focus is on how parenthood contributes to (gender) inequality in the family, in the labor market, and in health (behaviors). The focus is on the career effects of gender and different life events and decisions that may be interpreted as productivity signals, for example, individual layoffs, studying abroad, and the receipt of occupational awards. 
+In this line of research, I study the consequences of life events and decisions, often in conjunction with gender, on the formation and development of inequality in adult life courses. A first focus is on how parenthood contributes to (gender) inequality in the family, in the labor market, and in health (behaviors). The second focus is on the career effects of gender and different life events and decisions that may be interpreted as productivity signals, for example, individual layoffs, studying abroad, and the receipt of occupational awards. 
 
 ### Publications and Work in Progress
 * Childbirth and the Long-Term Division of Labour within Couples: How do Substitution, Bargaining Power, and Norms affect Parents' Time Allocation in West Germany? Published in the [European Sociological Review](https://doi.org/10.1093/esr/jcr026)  
