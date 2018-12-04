@@ -3,7 +3,7 @@ layout: page
 title: Social Stratification of Child Development
 ---
 
-This research focuses on how classic markers of social stratification (e.g., social origin, sex/gender) and dynamic aspects of the family context (e.g., parental employment, living environment, parenting practices) (jointly) contribute to social inequality in different dimensions of child development (e.g., cognitive skills and academic achievement, behavior, health). A particular focus is on highlighting and accounting for the complex temporal and causal interdependencies between the different factors shaping children's life courses and inequality therein.
+This line of research focuses on how classic markers of social stratification (e.g., social origin, sex/gender) and dynamic aspects of the family context (e.g., parental employment, living environment, parenting practices) (jointly) contribute to social inequality in different dimensions of child development (e.g., cognitive skills and educational attainment, behavior, health). A particular focus is on highlighting and accounting for the complex temporal and causal interdependencies between the different factors shaping children's life courses and inequality therein.
 
 ### Publications and work in progress
 * Early Maternal Employment and Children’s Vocabulary and Inductive Reasoning Ability: A Dynamic Approach (with [Markus Klein](https://markusklein.co.uk/)), published in the journal [Child Development](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12796/abstract)
