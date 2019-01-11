@@ -33,5 +33,6 @@ Over the last few years, I have also offered workshops on the topics of causal i
 
 * Causal mediation analysis, [BIGSSS (May 2018)](https://kuehhirt.github.io/web-mediation), [Gesis (October 2017)](https://www.dropbox.com/s/6u7khp1cjy8x2pl/syl_med_gesis_17.pdf?dl=0)
 * Introduction to causal inference, [CED (September 2017)](https://www.dropbox.com/s/ashfecn0lgiq9m1/syl_ci_ced_17.pdf?dl=0), [LCC (April 2017)](https://www.dropbox.com/s/9nk58jwa60m3mvr/syl_ci_lcc_17.pdf?dl=0)
+* Graphical causal models, Gesis (November 2018)
 * Kausalität und Evaluation, DJI (October 2015, 2016)
 * Recent advances in causal inference, [University of Edinburgh, AQMeN (September 2014)](https://www.dropbox.com/s/klj5pkpxphe5bc2/syllabus.pdf?dl=0)
