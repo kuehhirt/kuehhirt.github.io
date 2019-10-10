@@ -13,6 +13,7 @@ This line of research focuses on how classic markers of social stratification (e
 * Early History of Exposure to Neighborhood Deprivation and Behavior Problems: Evidence from Scotland, [Working Paper](https://mfr.osf.io/render?url=https://osf.io/bj3fu/?action=download%26mode=render)
 * Early Academic Achievement and Behavior Problems at the Intersection of Gender and Family Environment (with [Ibrahim Demirer](http://www.imvr.de/index.php?page=ibrahim-demirer) and [Markus Klein](https://markusklein.co.uk/)), presented at Joint Conference for ISA RC06 (Family) and RC41 (Population) in Singapore, 17-19 May, 2018
 * Direct and Indirect Effects of Grandparents’ Education on Grandchildren’s Cognitive Development: The Role of Parental Cognitive Ability  (with [Markus Klein](https://markusklein.co.uk/)), presented at the RC28 session Multigenerational Perspectives on Stratification at the ISA World Congress of Sociology in Toronto, 15-21 July, 2018
+* Family Income Dynamics and Children's Academic Achievement (with [Tomás Cano](https://tomascano.eu)), presented at the XIII Spanish Congress of Sociology in Valencia, 3-6 July, 2019
 
 
 [Back to Research]({{ baseurl }}/research)
