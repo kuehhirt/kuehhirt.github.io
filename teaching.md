@@ -15,16 +15,16 @@ Below are some of the courses I'm offering at the University of Cologne with lin
 ### Courses in the [M.Sc. program](https://www.wiso.uni-koeln.de/en/studies/master/master-sociology-and-social-research/)
 
 * [Analysis of cross-sectional data](pdfs/syllabus-acsd-19.pdf) (lecture with exercise)
-* [Design and analysis of quasi-experiments](https://www.dropbox.com/s/q089ht2sqlr1jxg/syllabus.pdf?dl=0) (lecture with exercise)
+* [Design and analysis of quasi-experiments](pdfs/script_v3.pdf) (lecture with exercise)
 * [Introduction to causal inference](/web-causal-inference/) (lecture with exercise)
 * [Reproducible research on child and youth development](/web-research-lab/) (research lab)
-* [Social contagion](https://www.dropbox.com/s/kzno4gcm62a24lp/syl_sc_ss16.pdf?dl=0) (seminar course)
+* [Social contagion](pdfs/syl_sc_ss16.pdf) (seminar course)
 
 
 ### Courses in the [B.Sc. program](https://www.wiso.uni-koeln.de/en/studies/bachelor/social-sciences/)
 
-* [Discrimination in the labor market](https://www.dropbox.com/s/20yuvx0emg2pkc1/syllabus.pdf?dl=0) (seminar course)
-* [Family context and child development](https://www.dropbox.com/s/4heh9cgbxsawcgt/syllabus_v2.pdf?dl=0) (seminar course)
+* [Discrimination in the labor market](pdfs/syllabus2.pdf) (seminar course)
+* [Family context and child development](pdfs/syllabus_v2.pdf) (seminar course)
 
 In Cologne, I've also taught a research lab on higher education and the labor market, a seminar on gender inequality in the family and the labor market, and a complementary exercise for the introductory statistics lecture in the B.A. program.
 
@@ -32,8 +32,8 @@ In Cologne, I've also taught a research lab on higher education and the labor ma
 
 Over the last few years, I have also offered workshops on the topics of causal inference and causal mediation analysis in different places:
 
-* Causal mediation analysis, [BIGSSS (May 2018)](https://kuehhirt.github.io/web-mediation), [Gesis (October 2017)](https://www.dropbox.com/s/6u7khp1cjy8x2pl/syl_med_gesis_17.pdf?dl=0)
-* Introduction to causal inference, [CED (September 2017)](https://www.dropbox.com/s/ashfecn0lgiq9m1/syl_ci_ced_17.pdf?dl=0), [LCC (April 2017)](https://www.dropbox.com/s/9nk58jwa60m3mvr/syl_ci_lcc_17.pdf?dl=0)
+* Causal mediation analysis, Gesis (October 2019), [BIGSSS (May 2018)](https://kuehhirt.github.io/web-mediation), [Gesis (October 2017)](pdfs/syl_med_gesis_17.pdf)
+* Introduction to causal inference, [CED (September 2017)](pdfs/syl_ci_ced_17.pdf), LCC (April 2017)
 * Graphical causal models, Gesis (November 2018)
 * Kausalität und Evaluation, DJI (October 2015, 2016)
-* Recent advances in causal inference, [University of Edinburgh, AQMeN (September 2014)](https://www.dropbox.com/s/klj5pkpxphe5bc2/syllabus.pdf?dl=0)
+* Recent advances in causal inference, University of Edinburgh, AQMeN (September 2014)
