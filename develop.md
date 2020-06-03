@@ -14,6 +14,5 @@ This line of research focuses on how classic markers of social stratification (e
 * Family Income Dynamics and Children's Academic Achievement (with [Tomás Cano](https://tomascano.eu)), presented at ECSR Annual Conference in Lausanne, 12-14 September, 2019
 * Inequality of Educational Opportunity in East and West Germany: Convergence or Continued Differences? (with [Markus Klein](https://markusklein.co.uk/) and [Katherin Barg](https://socialsciences.exeter.ac.uk/education/staff/index.php?web_id=katherin_barg)), published in the journal [Sociological Science](https://doi.org/10.15195/v6.a1)
 * Direct and Indirect Effects of Grandparents’ Education on Grandchildren’s Cognitive Development: The Role of Parental Cognitive Ability  (with [Markus Klein](https://markusklein.co.uk/)), presented at the RC28 session Multigenerational Perspectives on Stratification at the ISA World Congress of Sociology in Toronto, 15-21 July, 2018
-* Early Academic Achievement and Behavior Problems at the Intersection of Gender and Family Environment (with [Ibrahim Demirer](http://www.imvr.de/index.php?page=ibrahim-demirer) and [Markus Klein](https://markusklein.co.uk/)), presented at SLLS Annual Conference in Potsdam, 25-27 September, 2019
 
 [Back to Research]({{ baseurl }}/research)
