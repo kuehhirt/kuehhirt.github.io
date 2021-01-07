@@ -8,7 +8,7 @@ This line of research focuses on how classic markers of social stratification (e
 ### Publications and work in progress
 * Early Maternal Employment and Children’s Vocabulary and Inductive Reasoning Ability: A Dynamic Approach (with [Markus Klein](https://markusklein.co.uk/)), published in the journal [Child Development](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12796/abstract)
 * Maternal Employment Dynamics and Childhood Overweight: Evidence from Germany, published in the [Journal of Family Research](https://ubp.uni-bamberg.de/jfr/index.php/jfr/article/view/366/239)
-* Maternal Employment Patterns and Children's Behavior in Scotland (with [Marita Jacob](https://www.iss-wiso.uni-koeln.de/de/institut/personen/j/prof-dr-marita-jacob/))
+* Mothers' Employment and Child Behaviour: New Evidence for Scotland (with [Marita Jacob](https://www.iss-wiso.uni-koeln.de/de/institut/personen/j/prof-dr-marita-jacob/)), published in the journal [Longitudinal and Life Course Studies](https://doi.org/10.1332/175795920X16057278409033)
 * Parental Education, Television Exposure, and Children's Early Cognitive, Language and Behavioral Development (with [Markus Klein](https://markusklein.co.uk/)), published in the journal [Social Science Research](https://doi.org/10.1016/j.ssresearch.2019.102391)
 * Early History of Exposure to Neighborhood Deprivation and Behavior Problems: Evidence from Scotland, [Working Paper](https://mfr.osf.io/render?url=https://osf.io/bj3fu/?action=download%26mode=render)
 * Family Income Dynamics and Children's Academic Achievement (with [Tomás Cano](https://tomascano.eu)), presented at ECSR Annual Conference in Lausanne, 12-14 September, 2019
