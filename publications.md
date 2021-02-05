@@ -5,7 +5,10 @@ sidebar_sort_order: 4
 ---
 
 #### Marita Jacob and Michael Kühhirt (2021). Mothers' Employment and Child Behaviour: New Evidence for Scotland [Open Access]
+<details>
+<summary>Abstract</summary>
 Given increasing maternal labour-market participation in many European countries, there is an ongoing scientific and public debate on the potential consequences for children’s development. Previous research has used both cross-sectional measures of maternal employment at a particular age of the child and measures capturing maternal employment history. Whereas the former approach cannot capture the cumulative impact of maternal employment on developmental outcomes, studies following the second approach have so far not accounted for the possibility that mothers may repeatedly change their labour-force participation in response to their children’s development or other dynamic context factors that are themselves affecting developmental outcomes. The present study combines statistical techniques that can account for time-varying confounders with cumulative measurement of maternal employment to investigate its link with children’s behavioural problems around age eight. In addition, our study explores whether the effect of maternal employment history differs by mothers’ education. Using data from the Growing Up in Scotland study, we find that children’s behavioural problems around age eight are the less pronounced the more years their mothers have worked full-time or part-time. However, these associations reduced in size once we adjusted for potential confounders and they do not significantly differ between mothers with and without a tertiary degree. These results suggest that the association between maternal employment history and behavioural problems around age eight is mostly driven by confounding factors such as maternal education, child health and socio-economic status. 
+</details>
 
 DOI: [10.1332/175795920X16057278409033](https://doi.org/10.1332/175795920X16057278409033) | [Replication files](https://osf.io/4jg6e/)
 
