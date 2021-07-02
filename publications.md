@@ -6,7 +6,7 @@ sidebar_sort_order: 4
 
 #### Marita Jacob and Michael Kühhirt (2021). Mothers' Employment and Child Behaviour: New Evidence for Scotland [Open Access]
 DOI: [10.1332/175795920X16057278409033](https://doi.org/10.1332/175795920X16057278409033) | [Replication files](https://osf.io/4jg6e/)
-<a class="boxlink" href= "#" data-kube="toggle" data-target="#abs-lasso-inters">abstract</a>
+<a class="boxlink" href= "#" data-kube="toggle" data-target="#jacob-kuehhirt-2021">abstract</a>
 
 <div id="jacob-kuehhirt-2021" class="is-hidden is-inset-16">
 
