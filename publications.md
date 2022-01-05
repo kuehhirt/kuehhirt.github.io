@@ -4,6 +4,13 @@ title: Publications
 sidebar_sort_order: 4
 ---
 
+#### Ibrahim Demirer, Michael Kühhirt, Ute Karbach and Holger Pfaff (2022). Does Positive Affect Mediate the Association of Multimorbidity on Depressive Symptoms? [Open Access]
+DOI: [10.1080/13607863.2020.1870209](https://doi.org/10.1080/13607863.2020.1870209) 
+<details>
+<summary>Abstract</summary>
+Multimorbidity poses various challenges, and previous research has indicated a causal relation with depression. As multimorbidity is not curable, the underlying mechanisms are of great interest. Positive affect is a major resource for coping with chronic conditions and for the prevention of depression. Long-term multimorbidity, however, may deplete positive affect. The purpose of this paper is to investigate the role of positive affect in the association between multimorbidity and depressive symptoms. We used four consecutive waves (2008, 2011, 2014, 2017) of the nationally representative German Ageing Survey (DEAS) with a total of 1,558 older adults aged 40 and over. To account for time-varying confounding, exposure-induced mediator-outcome confounding, and reciprocities, we applied the mediational g-formula with inverse-probability weighting techniques. We also tested for exposure-mediator interaction to adjust for differences in mediation across the duration of multimorbidity. We confirmed a positive longitudinal relation between multimorbidity and depressive symptoms, both of which were negatively associated with while positive affect. The model without interaction indicated a share mediated of ca. 18.3% on the total effect of multimorbidity on depressive symptoms. Addition of interaction led to substantial differences for multimorbidity duration and levels of positive affect. Associations for long-term multimorbidity (at least two survey waves) were more substantial, and the share mediated doubled (>40%). Additionally, the direct effect of multimorbidity on depressive symptoms diminished for short-term multimorbidity. Strengthening positive affect could reduce depressive symptoms in those facing multimorbidity. This study also discusses methodological challenges in performing longitudinal mediation analysis. We advise researchers to consider the mediational g-formula and exposure-mediator interaction.
+</details>
+
 #### Marita Jacob and Michael Kühhirt (2021). Mothers' Employment and Child Behaviour: New Evidence for Scotland [Open Access]
 DOI: [10.1332/175795920X16057278409033](https://doi.org/10.1332/175795920X16057278409033) | [Replication files](https://osf.io/4jg6e/)
 <details>
@@ -12,17 +19,10 @@ Given increasing maternal labour-market participation in many European countries
 </details>
 
 #### Markus Klein and Michael Kühhirt (2021). Direct and Indirect Effects of Grandparents’ Education on Grandchildren’s Cognitive Development: The Role of Parental Cognitive Ability [Open Access]
-DOI: [10.15195/v8.a13](http://dx.doi.org/10.15195/v8.a13) 
+DOI: [10.15195/v8.a13](http://dx.doi.org/10.15195/v8.a13) | [Replication files](https://osf.io/fgv8x/)
 <details>
 <summary>Abstract</summary>
 The social stratification literature is inconclusive about whether there is a direct effect of grandparent resources on grandchildren’s educational outcomes net of parental characteristics. Some of this heterogeneity may be due to differences in omitted variable bias at the parental level. Our article accounts for a more extensive set of parent characteristics and explores the mediating role of parental cognitive ability in more detail. It further tackles methodological challenges (treatmentinduced mediator–outcome confounders, treatment–mediator interaction) in assessing any direct influences of grandparents by using a regression-with-residuals approach. Using the 1970 British Cohort Study, our results show that the direct effect of grandparent education on grandchildren’s verbal and numerical ability is small and statistically nonsignificant. Parental cognitive ability alone can account for more than two-thirds (numerical ability) or half (verbal ability) of the overall grandparent effect. These findings stress the importance of cognitive ability for intergenerational social mobility processes. 
-</details>
-
-#### Ibrahim Demirer, Michael Kühhirt, Ute Karbach and Holger Pfaff (2021). Does Positive Affect Mediate the Association of Multimorbidity on Depressive Symptoms? [Open Access]
-DOI: [10.1080/13607863.2020.1870209](https://doi.org/10.1080/13607863.2020.1870209) 
-<details>
-<summary>Abstract</summary>
-Multimorbidity poses various challenges, and previous research has indicated a causal relation with depression. As multimorbidity is not curable, the underlying mechanisms are of great interest. Positive affect is a major resource for coping with chronic conditions and for the prevention of depression. Long-term multimorbidity, however, may deplete positive affect. The purpose of this paper is to investigate the role of positive affect in the association between multimorbidity and depressive symptoms. We used four consecutive waves (2008, 2011, 2014, 2017) of the nationally representative German Ageing Survey (DEAS) with a total of 1,558 older adults aged 40 and over. To account for time-varying confounding, exposure-induced mediator-outcome confounding, and reciprocities, we applied the mediational g-formula with inverse-probability weighting techniques. We also tested for exposure-mediator interaction to adjust for differences in mediation across the duration of multimorbidity. We confirmed a positive longitudinal relation between multimorbidity and depressive symptoms, both of which were negatively associated with while positive affect. The model without interaction indicated a share mediated of ca. 18.3% on the total effect of multimorbidity on depressive symptoms. Addition of interaction led to substantial differences for multimorbidity duration and levels of positive affect. Associations for long-term multimorbidity (at least two survey waves) were more substantial, and the share mediated doubled (>40%). Additionally, the direct effect of multimorbidity on depressive symptoms diminished for short-term multimorbidity. Strengthening positive affect could reduce depressive symptoms in those facing multimorbidity. This study also discusses methodological challenges in performing longitudinal mediation analysis. We advise researchers to consider the mediational g-formula and exposure-mediator interaction.
 </details>
 
 
