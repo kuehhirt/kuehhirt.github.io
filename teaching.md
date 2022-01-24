@@ -31,8 +31,8 @@ Below are some of the courses I've offerered at the University of Cologne with l
 
 Over the last few years, I have also offered workshops on the topics of causal inference and causal mediation analysis in different places:
 
-* Causal mediation analysis, Gesis (October 2019), [BIGSSS (May 2018)](https://kuehhirt.github.io/web-mediation), [Gesis (October 2017)](pdfs/syl_med_gesis_17.pdf)
-* Introduction to causal inference, [CED (September 2017)](pdfs/syl_ci_ced_17.pdf), LCC (April 2017)
-* Graphical causal models, Gesis (November 2018)
-* Kausalität und Evaluation, DJI (October 2015, 2016)
-* Recent advances in causal inference, University of Edinburgh, AQMeN (September 2014)
+* Introduction to causal inference, Aarhus Universitet (2021), [CED (2017)](pdfs/syl_ci_ced_17.pdf), LCC (2017)
+* Causal mediation analysis, Gesis (2021, 2019, [(2017)](pdfs/syl_med_gesis_17.pdf)), [BIGSSS (2018)](https://kuehhirt.github.io/web-mediation) 
+* Graphical causal models, Gesis (2018)
+* Kausalität und Evaluation, DJI (2015, 2016)
+* Recent advances in causal inference, University of Edinburgh, AQMeN (2014)
