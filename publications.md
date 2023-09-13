@@ -4,6 +4,14 @@ title: Publications
 sidebar_sort_order: 4
 ---
 
+#### Thomas Biegert, Michael Kühhirt, and Wim Van Lancker (2023). They Can’t All Be Stars: The Matthew Effect, Cumulative Status Bias, and Status Persistence in NBA All-Star Elections. [Open Access]
+DOI: [10.1177/000312242311591](
+https://doi.org/10.1177/000312242311591) 
+<details>
+<summary>Abstract</summary>
+This study investigates the extent to and mechanisms through which Matthew effects create persistent status hierarchies. We propose a model that highlights the role of cumulative status bias in the feedback loop that leads from initial status allocation to status confirmation. We investigate the formalized process of repeated status allocation in annual elections to the National Basketball Association (NBA) All-Star game. Using detailed records on player performances allows us to isolate the Matthew effect from actual productivity differences to show that a previous All-Star nomination improves the chances to be re-nominated. We demonstrate that this Matthew effect is partly explained by improved productivity after an All-Star nomination, but voters’ evaluations are also directly biased by a player’s prior status. Multiple previous nominations further improve a player’s chances, confirming the importance of cumulative status bias. The resulting status-biased persistence of achieved status implies ever greater decoupling of productivity and status, undermining the meritocratic allocation of status and resources even more than the existing literature acknowledges.
+</details>
+
 #### Ibrahim Demirer, Michael Kühhirt, Ute Karbach and Holger Pfaff (2022). Does Positive Affect Mediate the Association of Multimorbidity on Depressive Symptoms? [Open Access]
 DOI: [10.1080/13607863.2020.1870209](https://doi.org/10.1080/13607863.2020.1870209) 
 <details>
