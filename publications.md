@@ -4,6 +4,45 @@ title: Publications
 sidebar_sort_order: 4
 ---
 
+#### Philipp Linden, Nadine Reibling, and Michael Kühhirt (2026). The Effect of Parenthood on Weekly Physical Activity in four OECD Countries: A Longitudinal Analysis. [Open Access]
+DOI: [10.1016/j.ssresearch.2025.103305](https://doi.org/10.1016/j.ssresearch.2025.103305)
+<details>
+<summary>Abstract</summary>
+This study investigates how parenthood affects weekly physical activity and explores how this effect varies by age of the child, parents’ gender, education, and the country context.
+A substantial body of literature reports parenthood to decline weekly physical activity, though with considerable variation across studies. Although sociological scholarships have long emphasized the diversity of parenthood, few studies have specifically examined the dynamic nature and heterogeneity of its impact on physical activity. This study advances existing knowledge by addressing these gaps, comparing the effect of parenthood over time and across different social and national contexts. In addition, data and methodological limitations are addressed by analyzing parenthood from three years before to ten and more years after birth and by using difference-in-difference estimation.
+The study harmonized household data for four countries (Australia, Germany, Switzerland, and the United States) from 2001 to 2019. Country-specific longitudinal group trend regression models were used to account for unobserved heterogeneity between parents and childless adults.
+Entering parenthood significantly decreases the likelihood of weekly physical activity, especially among women. The effect declines as the child grows up but persists in all countries for several years. However, the size and duration of the effect vary by country, gender, and educational attainment.
+Interventions to promote regular physical activity among parents need to consider the heterogeneity of parenthood including the age of the child, parental gender, and socioeconomic status, as well as the broader country context. More comparative panel studies are needed to better understand the effects of cultural and institutional differences.
+</details>
+
+#### Thomas Biegert, Wim Van Lancker, and Michael Kühhirt (2026) There Is Cumulative Status Bias and Status Entrenchment in NBA Awards: Comment on McMahan and Shor (2024) [Open Access]
+DOI: [10.15195/v13.a12](https://doi.org/10.15195/v13.a12)
+<details>
+<summary>Abstract</summary>
+Peter McMahan and Eran Shor (MS) published a paper in Sociological Science critiquing our study on cumulative status bias in NBA All-Star elections (Biegert, Kühhirt, and Van Lancker 2023, BKVL). In this article, we affirm the presence of cumulative status bias in NBA Awards. Crucially, MS focuses only on the accumulated component of cumulative status bias, ignoring the impact of immediately preceding status signals, which decouple quality and status. Further, we identify theoretical and empirical issues with their model extensions of All-Star elections and their reapplication to All-NBA selections. 1) We deem MS’ argument for legitimate deviations between status and quality deeply problematic. 2) We argue that their inclusion of additional variables is not theoretically plausible in several instances, nor does it improve the models, which still support our findings. 3) We argue that All-NBA selections are a different application, not a better one, with no direct implications for the role of cumulative status bias in NBA All-Star elections. 4) We highlight flaws in MS’ models, such as irrelevant covariates, an indiscriminate approach to confounding and mediation, mismeasurement, and problematic post-treatment and post-outcome controls. 5) Our re-analysis confirms that even in the All-NBA setting previous status distinctions cumulatively bias outcomes.
+</details>
+
+#### Markus Klein and Michael Kühhirt (2025). Parental education and children’s cognitive development: a prospective approach [Open Access]
+DOI: [10.1093/sf/soaf146](https://doi.org/10.1093/sf/soaf146)
+<details>
+<summary>Abstract</summary>
+This study uses nationally representative data from the 1970 British Cohort Study (BCS70) to estimate the impact of parental education on children’s cognitive development using a prospective approach. The analysis focuses on a subsample of participants and their first-born children (n = 1,042, aged 3 to 16). Previous research often overlooked selective patterns of childbirth, potentially introducing endogenous selection bias, and did not fully account for genetic confounding in the association between parental education and children’s cognitive outcomes. To address these limitations, we used the BCS70’s multigenerational design and inverse probability of treatment and censoring weighting to correct for nonrandom selection into parenthood and control for confounding parental and grandparental factors. Our findings show that accounting for endogenous selection bias increases the estimated effect of parental education, while adjusting for confounding—primarily driven by parental cognitive ability—substantially reduces this effect. These results underscore the importance of disentangling the effects of parental education from the broader intergenerational factors that shape children’s cognitive outcomes.
+</details>
+
+#### Simon Skovgaard Jensen, Michael Kühhirt, and Felix Weiss (2025). Parental unemployment and children's well-being at school: The role of duration, reemployment, and socioeconomic status
+DOI: [10.1177/00016993241277038](https://doi.org/10.1177/00016993241277038)
+<details>
+<summary>Abstract</summary>
+We examine the effect of parental unemployment on the school well-being of children aged 6 to 9 while considering differential effects by unemployment duration, reemployment, and parents’ socioeconomic status. The analysis is based on a mandatory school well-being survey, which is answered by the children and conducted annually in Danish public schools (2014–2019) and linked to administrative register data. A child-level fixed effect model is used to adjust for time-constant confounders. The findings reveal no statistically significant effects and suggest that parental unemployment either has no impact or at best a very weak effect on children's school well-being. If fathers become unemployed, any effect on children's school well-being appears to be limited to those who do not regain employment. Moreover, the potential effects were more pronounced among children of lower socioeconomic status fathers. Interestingly, among mothers, remaining unemployed seems to be associated with improved child well-being at school.
+</details>
+
+#### Michael Kühhirt, Markus Klein, and Abrahim Demirer (2023). Children’s Academic Achievement and Behavior Problems at the Intersection of Gender and Family Environment. [Open Access]
+DOI: [https://doi.org/10.1177/23780231231199395](https://doi.org/10.1177/23780231231199395)
+<details>
+<summary>Abstract</summary>
+This article investigates whether gender differences in children’s math, reading, and behavior problems vary across mothers’ education and family structure. Using data from the National Longitudinal Study of Youth-Children and Young Adults (N > 6,200; age range = 5–14; 51 percent female; 30 percent Black, 20 percent Hispanic, and 50 percent other ethnic backgrounds), we hypothesized that boys growing up with less educated mothers and in single-parent families may lag behind girls more significantly in reading and behavior problems. They may be less ahead in math than their peers from more advantaged backgrounds. Our findings demonstrate this heterogeneity of gender differences by maternal education but not by family structure. This may indicate that cultural norms associated with gender play a significant role in explaining the observed heterogeneity across family circumstances. We replicated these findings for academic achievement using data from the Early Childhood Longitudinal Study Kindergarten Class 1998–1999.
+</details>
+
 #### Thomas Biegert, Michael Kühhirt, and Wim Van Lancker (2023). They Can’t All Be Stars: The Matthew Effect, Cumulative Status Bias, and Status Persistence in NBA All-Star Elections. [Open Access]
 DOI: [10.1177/000312242311591](https://doi.org/10.1177/00031224231159139)
 <details>
