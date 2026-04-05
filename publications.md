@@ -3,6 +3,7 @@ layout: category
 title: Publications
 sidebar_sort_order: 4
 ---
+I've left my last position in acadamia in 2022. Yet, these keep popping up, which is telling about a few aspects in this line of work. I leave it up to the reader to allude to these.
 
 #### Philipp Linden, Nadine Reibling, and Michael Kühhirt (2026). The Effect of Parenthood on Weekly Physical Activity in four OECD Countries: A Longitudinal Analysis. [Open Access]
 DOI: [10.1016/j.ssresearch.2025.103305](https://doi.org/10.1016/j.ssresearch.2025.103305)
